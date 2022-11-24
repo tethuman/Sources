@@ -6,7 +6,11 @@ max-hieght:900%;
 
 }
 
+h1 {
 
+background-color:green;
+
+}
 
 p {
 
@@ -18,15 +22,24 @@ background color: #7c7d7d;
 
 }
 
+h1 {
 
+color: red;
+
+}
 
 h2 {
 
 font-size: 230%;
-color: #969696;
+color: #703c03;
 background color: #7c7d7d;
 }
 
+h1 {
+
+background-color:#19E631;
+
+}
 
 h1 {
 
@@ -53,7 +66,7 @@ font-size: 14px;
 
 #header {
 
-background: radial-gradient(circle at top right,#703c03 ,#e7ae01);
+background-color: #703c03;
 margin: 10px;
 height: 90px;
 border-radius: 5px;
@@ -77,7 +90,7 @@ margin: 0px
 }
 
 .main {
-background: radial-gradient(circle at top right,#703c03 ,#e7ae01);
+background-color: #9E9700;
 margin: 10px;
 border-radius: 5px;
 padding: 20px;
@@ -99,11 +112,6 @@ max-hieght:999%;
 
 }
 
-h1 {
-
-color:#969696;
-
-}
 
 
 
