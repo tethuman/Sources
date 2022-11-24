@@ -1,0 +1,29 @@
+<!doctype html>
+ 
+<html>
+ 
+<head>
+ 
+<link rel="icon" href="coin.png" type="image/x-icon">
+
+<title> Cool Coins </title>
+   
+<link rel="stylesheet" type="text/css" href="stylesheet.css">
+
+</head>
+
+<body>
+ 
+<h1> 404 </h1>
+ 
+<p> Page Not Found </p>
+
+<p> Link to Cool Coin Websites:
+
+<a href="coolcoins.ga">
+Cool Coins Website   </a>
+</p>  
+
+</body>
+
+</html>
